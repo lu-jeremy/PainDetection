@@ -1,6 +1,12 @@
 # PainDetection
 Utilizing AI in fMRI Scans to Detect Nociceptive Intensity Ratings in Patients
 
+# Abstract
+Detecting Nociceptive Intensity Ratings in Patients’ fMRI Scans
+Veterans who come back from war cannot fully convey pain reactions due to cognitive disorders, such as Post Traumatic Stress Disorder (PTSD). This work outlines the creation of a machine learning based system to binary-classify pain using a brain imaging dataset. Moreover, the OpenNeuro website conducted an experiment where heat-induced, nociceptive reactions correlated self regulated pain with the ventromedial prefrontal cortex (vmPFC) and nucleus accumbens (NAc) of the brain. Although functional Magnetic Resonance Imaging (fMRI) has been used in said studies for image reconstruction, data analysis, and cognitive behavior simulation, it has not been involved in the task of pain detection at any level. Therefore, the present study proposes a device that uses fMRI images to massage a specific area of the body to help veterans cope with tremendous war injuries. The novel machine learning model predicted pain at an accuracy of 68.49% and is the first to have been created for this task.
+
+
+
 # Formats of data
   - fMRI
     - pros: spatial mappings
